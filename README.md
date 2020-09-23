@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey there,I'am Mandar!
 
-<!--
-**mandar196/mandar196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing Master of computer Applications (Final Year) from Vishwakarma Institute of technology.
 
-Here are some ideas to get you started:
+💻 I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
+
+🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
+
+🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community.
+
+📌 Scroll down to see my Pinned Repositories.
+
+# Connect me on:
+LinkedIn: https://www.linkedin.com/in/mandar-kulkarni196
+
+Kaggle: https://www.kaggle.com/mandarkulkarnipune
+
+Medium: https://rb.gy/mm6ps8
+
+Note: Please do not spam on the above mentioned profiles.
