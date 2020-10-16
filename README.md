@@ -1,5 +1,7 @@
 ## Hi there, I'm [Mandar kulkarni](https://master.d2w6px0fdt0my3.amplifyapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/mandar196?style=social)
 
+<h3>Check out my portfolio:<a href="https://github.com/mandar196/mandar196.github.io"</a>Click here</h3>
+
 <p align="center">
       <a href="https://kaggle.com/mandarkulkarnipune">
         <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
