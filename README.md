@@ -1,4 +1,4 @@
-## Hi there, I'm [Mandar kulkarni](https://master.d2w6px0fdt0my3.amplifyapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/mandar196?style=social)
+## Hi there, I'm [Mandar kulkarni](https://mandar196.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/mandar196?style=social)
 
 <h3>Check out my portfolio:<a href="mandar196.github.io"</a> Click here</h3>
 
