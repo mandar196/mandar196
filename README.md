@@ -1,6 +1,6 @@
-## Hi there, I'm [Mandar kulkarni](https://mandar196.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/mandar196?style=social)
+## Hi there, I'm [Mandar kulkarni](https://kulkarnimandar96.wixsite.com/mandar)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/mandar196?style=social)
 
-<h3>Check out my portfolio: <a href="https://mandar196.github.io/"</a> click here</h3>
+<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
 
 
 <p align="center">
