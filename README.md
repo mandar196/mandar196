@@ -29,10 +29,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Resilience Partner Support Analyst in Barclays.
-- 💼 I have also worked as AI/ML Intern at Tata Motors.
-- 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
-- 📌 Scroll down to see my Pinned Repositories.
+- 👨🏽‍💻 I have worked as AI/ML Intern at Tata Motors
+- 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya
+- 📌 Scroll down to see my Pinned Repositories
 - 📫 Please email via kulkarnimandar96@gmail.com to reach me;
 <br/> 
 </em>
@@ -84,13 +83,6 @@
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Handwritten_Digits_Classifier_CNN&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
-  
- <p align="center">
-  <a href = "https://github.com/mandar196/Face_Recognition_Attendance_System">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Face_Recognition_Attendance_System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
 
 <p align="center">
   <a href = "https://github.com/mandar196/Fake_News_Classifier_NLP">
