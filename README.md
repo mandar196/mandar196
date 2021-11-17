@@ -29,11 +29,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as AL/ML Intern at Tata Motors.
-- 💼 I'm currently pursuing Master of computer Applications (Final Year) from Vishwakarma Institute of technology.
-- 💻 I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
+- 👨🏽‍💻 I’m currently working as Resilience Partner Support Analyst in Barclays.
+- 💼 I have also worked as AI/ML Intern at Tata Motors.
 - 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
-- 💬 Ask me anything related to Data science domain, ready to collaborate for projects.
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via kulkarnimandar96@gmail.com to reach me;
 <br/> 
