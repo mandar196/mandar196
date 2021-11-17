@@ -30,7 +30,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I have worked as AI/ML Intern at Tata Motors
-- 🖋️  I completed my Master's in Computer Applications from VIT,Pune
+- 🖋️  I completed my Master's in Computer Applications from VIT, Pune
 - 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya
 - 📌 Scroll down to see my Pinned Repositories
 - 📫 Please email via kulkarnimandar96@gmail.com to reach me;
